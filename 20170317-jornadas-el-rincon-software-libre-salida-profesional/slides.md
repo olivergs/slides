@@ -16,14 +16,6 @@ Acerca de...
 
 ---
 
-Inicios
--------
-En un primer momento toda la materia y energía de este universo se concentraba en un punto que explotó y dio origen al universo conocido en lo que ahora llamamos el Big Bang.
-
-*Creo que esto ya lo sabíamos y si no, ya han aprendido algo nuevo*
-
----
-
 Estudiante en el I.E.S. Pérez Galdós (1994-1998)
 ------------------------------------------------
 * Primer ordenador mío y sólo mío (1996)
