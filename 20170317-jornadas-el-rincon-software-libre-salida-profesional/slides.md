@@ -126,7 +126,4 @@ Más información: https://www.gnome.org/outreachy/
 GRACIAS
 =========
 
-Contacto
---------
-ogutierrez (at) redhat (dot) com
-matrixhas.me
+Contacto: olivergs.com
